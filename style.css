@@ -114,6 +114,10 @@ a {
     text-decoration: none
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body,
 html {
     height: 100%
